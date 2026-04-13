@@ -2,7 +2,7 @@
 
 Henry Li, APCS Period 1, 4/12/2026
 
-*This project is solely for APCS! Please ignore if you are not APCS! There's other cool repos here too!*
+*This project is solely for APCS! Please ignore if you are not APCS! There's other cool repos [here](https://github.com/HenryLi-0/) too!*
 
 #### Description and Explanation
 
