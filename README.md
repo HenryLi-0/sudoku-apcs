@@ -19,3 +19,4 @@ A project for APCS, the Sudoku Board generator that exists in the `Main.java` fi
 
 - [`Main.java`](</Main.java>)
 - [`README.md`](</README.md>) (optional)
+- ['design-document.pdf'](</design-document.pdf>) (optional)
